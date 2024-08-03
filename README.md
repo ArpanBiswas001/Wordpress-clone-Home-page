@@ -21,7 +21,7 @@ Features
 Clone the repository:
 
 bash
-git clone https://github.com/ArpanBiswas001/Wordpress-clone-Home-page.git
+gh repo clone ArpanBiswas001/Wordpress-clone-Home-page
 
 Navigate to the project directory:
 
